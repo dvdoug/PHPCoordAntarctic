@@ -1,7 +1,7 @@
 {
     "name": "php-coord/datapack-antarctic",
     "description": "PHPCoord high-accuracy addon datapack for the Antarctic",
-    "keywords": ["coord", "geo", "latitude", "longitude", "grid ref", "map", "projection", "wgs84", "osgb36", "utm", "nad", "nzmg", "gda", "ed50", "epsg", "antarctic"],
+    "keywords": ["coord", "geo", "latitude", "longitude", "grid ref", "map", "projection", "antarctic"],
     "type": "library",
     "homepage": "https://www.phpcoord.net/",
     "authors": [
