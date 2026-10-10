@@ -1,6 +1,8 @@
 # Changelog
 
 ## [Unreleased]
+### Changed
+- Updates to extents
 
 ## [1.4.1] - 2026-09-14
 ### Changed
